@@ -18,3 +18,9 @@ made dual speaker output using 2 of 7265 Ic for 50 watt output each also added a
 <img width="1568" height="836" alt="image" src="https://github.com/user-attachments/assets/a5e2b79b-2096-41fa-b324-a21da7098f48" />
 
 Time spent-2hr
+
+## **DAY 3 : Assigned the Components and PCB**
+Assigned the components and complted the PCB checked and shortlisted all the Parts i will be requiring
+<img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/52150846-a618-40f1-b002-34c1eca249c4" />
+
+Time spent - 5hrs
