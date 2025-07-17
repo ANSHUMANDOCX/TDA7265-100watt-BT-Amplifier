@@ -8,9 +8,18 @@ This is a BT amp which has a max ouput of 100watt (50+50) and BT input for audio
 - 12-0-12 Transformer
 
 # Plan
-I always wanted to make a powerful enough speakers to use with my Sony speaker. Now i have found a appropriate ic which can be tweaked to to get a max output of 50 watt in each channel hence 100watt total TDP
+I always wanted to make a powerful enough speakers to use with my Sony speaker. Now i have found a appropriate ic which can be tweaked to to get a max output of 50 watt in each channel hence 100watt total TDP.
+
+I have use a MH-M18 BT module which is both cheap and provides lossless audio
 
 i had made a TDA7269A amp which was a 14+14 watt Amp so this is a massive upgrade to it.
+
+<img width="1047" height="591" alt="image" src="https://github.com/user-attachments/assets/cfd2d814-4500-46aa-9b32-072f26c78802" />
+<img width="1072" height="849" alt="image" src="https://github.com/user-attachments/assets/b8084e02-c6f3-418a-83be-97bc1990965e" />
+<img width="919" height="728" alt="image" src="https://github.com/user-attachments/assets/eb1dd2e2-8dc0-4ae9-b037-88aa9ede9985" />
+
+
+
 
 # BOM
 | S.No | Description                       | Quantity | Total Price | Supplier |LINK|
@@ -21,7 +30,7 @@ i had made a TDA7269A amp which was a 14+14 watt Amp so this is a massive upgrad
 | 4    | Regulator ICs | 5        | $2.77       | LCSC    |https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_ST-L7912CV-DG_C3797.html  https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_ST-L7812CV-DG_C2914.html  https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_ST-L7805CV-DG_C3795.html|
 | 5    |TDA7265 | 2        | $3       | LCSC              |https://lcsc.com/product-detail/E-ink-Display_SEEKINK-E037A49_C41416467.html?s_z=n_C41416467|
 | 6    |Terminal Blocks | —        | $2.32       | LCSC    |https://lcsc.com/product-detail/Screw-Terminal-Blocks_JILN-JL500-50802G01_C709041.html  https://lcsc.com/product-detail/Screw-Terminal-Blocks_Ningbo-Kangnex-Elec-WJ500V-5-08-3P_C72334.html|
-||TRANSFORMER+BT MODLUE+WIRE||$18 |Maker Bazaar|https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914910281879  https://makerbazar.in/products/wireless-bluetooth-audio-receiver-module?variant=46233436946672  https://makerbazar.in/products/5amp-transformer-12-0-12?pr_prod_strat=e5_desc&pr_rec_id=1a5d3d4b8&pr_rec_pid=6219425808535&pr_ref_pid=7100438446231&pr_seq=uniform  |
+||TRANSFORMER+BT MODLUE+WIRE||$18 |Maker Bazaar|https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914910281879  https://makerbazar.in/products/wireless-bluetooth-audio-receiver-module?variant=46233436946672  https://ebhoot.in/shop-2/power-supply/smps/24v-10a-240watt-smps-dc-metal-power-supply-with-cooling-fan/  |
 |||SHIPPING LCSC|3.75|LCSC||
-|||PCB+ Shipping|12|JLCPCB||
-|||**TOTAL**|48.42||
+|||PCB+ Shipping|7|JLCPCB||
+|||**TOTAL**|43.42||
