@@ -32,5 +32,5 @@ i had made a TDA7269A amp which was a 14+14 watt Amp so this is a massive upgrad
 | 6    |Terminal Blocks | —        | $2.32       | LCSC    |https://lcsc.com/product-detail/Screw-Terminal-Blocks_JILN-JL500-50802G01_C709041.html  https://lcsc.com/product-detail/Screw-Terminal-Blocks_Ningbo-Kangnex-Elec-WJ500V-5-08-3P_C72334.html|
 ||TRANSFORMER+BT MODLUE+WIRE||$18 |Maker Bazaar|https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914910281879  https://makerbazar.in/products/wireless-bluetooth-audio-receiver-module?variant=46233436946672  https://ebhoot.in/shop-2/power-supply/smps/24v-10a-240watt-smps-dc-metal-power-supply-with-cooling-fan/  |
 |||SHIPPING LCSC|3.75|LCSC||
-|||PCB+ Shipping|7|JLCPCB||
-|||**TOTAL**|43.42||
+|||PCB+ Shipping|10|JLCPCB||
+|||**TOTAL**|46.42||
